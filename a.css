@@ -1,0 +1,76 @@
+
+.Bio_Up{
+    background-color: #E0FFFF;
+    height: 120px;
+}
+.Bio_X{
+    color: red;
+    padding: 25px;
+    font-size: 40px;
+    font-family: serif;
+}
+
+.Bio_X img{
+    height: 25px;
+    width: 25px;
+    float: right;
+}
+
+.Bio_Center{
+    background-color: #E6E6FA;
+    height: 400px;
+}
+.Bio_XX h1{
+    color: #ADD8E6;
+    padding: 25px;
+    font-size: 50px;
+    list-style: center;
+}
+.Bio_XX ul{
+    color: #ffa07a;
+    display: list-item;
+    list-style: none;
+    font-size: 25px
+}
+
+.Bio_XX ul {
+    font-family: serif;
+    font-size: 30px;
+}
+
+.Bio_btn_X{
+    border: 1px solid aqua;
+    border-radius: 5px;
+    background-color: blue;
+    padding: 10px;
+    text-align: left;
+    color: white;
+    width: 120px;
+    font-size: 20px;
+    float: left;
+    text-shadow: -1px -1px 1px rgba(255, 255, 255, .44), 1px 1px 1px #4a0a11;
+}
+  
+.Bio_btn_X img{
+    width: 30x;
+    height: 30px;
+    float: right;
+}
+
+.Bio_btn_XX{
+    border: 1px solid aqua;
+    border-radius: 5px;
+    background-color: blue;
+    padding: 10px;
+    text-align: left;
+    color: white;
+    width: 120px;
+    font-size: 20px;
+    float: left;
+    text-shadow: -1px -1px 1px rgba(53, 208, 6, 0.44), 1px 1px 1px #0cc685;
+}
+.Bio_btn_XX img{
+    width: 35px;
+    height: 34px;
+    float: right;
+}
